@@ -1,5 +1,4 @@
 # PSX-Portfolio-Optimization
-Applied Modern Portfolio Theory and numerical optimization to construct and evaluate equity portfolios.
 
 # Project Overview
 
